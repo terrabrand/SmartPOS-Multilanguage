@@ -1,0 +1,5 @@
+{
+  "name": "SmartPOS - AI Enhanced Point of Sale",
+  "description": "A modern, responsive restaurant POS system featuring a dynamic order panel and AI-powered upsell recommendations using Google Gemini.",
+  "requestFramePermissions": []
+}
